@@ -30,6 +30,10 @@ Inspired by <https://github.com/hobble87/jetson-nano-yocto>
 
     sudo reboot
 
+## setup local deb repo
+
+<https://linuxconfig.org/easy-way-to-create-a-debian-package-and-local-package-repository>
+
 ## Further ressources
 <https://github.com/orgs/OE4T/discussions/1593>
 <https://marcopennelli.com/embedded-linux-yocto-project-and-nvidia-jetson-nano-developer-kit-episode-1-369c079b7c15>
