@@ -1,5 +1,6 @@
 build/*
 !build/conf
+!build/*.sh
 build/conf/*
 !build/conf/local.conf
 !build/conf/bblayers.conf
